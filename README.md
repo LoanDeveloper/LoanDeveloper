@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Loan!
 
-<!--
-**LoanDeveloper/LoanDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a **fullstack developer** passionate about **technology**, **sports**, **web development**, and **music**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me:
+
+- 🎓 Currently in a work-study program to become a well-rounded and versatile web developer.  
+- 🛠️ Passionate about **programming** and **new technologies**.  
+- 🎵 **Beatmaker** in my spare time.  
+- 🏋️ Sports enthusiast: **badminton**, **bodybuilding**, and **hiking**.  
+
+---
+
+## 💻 Technologies and Tools I Use:
+
+- **Frontend**: Vue.js, React, Next.JS, HTML, CSS, JavaScript, TypeScript, and WordPress  
+- **Backend**: TypeScript, Symfony, NestJS, Django, and Java Spring Boot  
+- **Tools**: Git, Notion, Visual Studio Code, Trello  
+
+---
+
+## 📫 Contact Me:
+
+- **Email**: [loan.developer@example.com](mailto:loan.developer@example.com)  
+- **LinkedIn**: [linkedin.com/in/loan](https://linkedin.com/in/loan)  
+- **Portfolio**: [loan.dev](https://loan.dev)  
+
+Thanks for taking the time to visit my profile! 🚀
