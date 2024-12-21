@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Loan!
 
-Welcome to my GitHub profile!  
 I'm a **fullstack developer** passionate about **technology**, **sports**, **web development**, and **music**.  
 
 ---
