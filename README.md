@@ -23,8 +23,8 @@ I'm a **fullstack developer** passionate about **technology**, **sports**, **web
 
 ## 📫 Contact Me:
 
-- **Email**: [loan.developer@example.com](mailto:loan.developer@example.com)  
-- **LinkedIn**: [linkedin.com/in/loan](https://linkedin.com/in/loan)  
-- **Portfolio**: [loan.dev](https://loan.dev)  
+- **Email**: [loan.developer@example.com](mailto:loan.thomy@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/loan](https://www.linkedin.com/in/loan-tmy/)  
+- **Portfolio**: [loan.dev](https://loandeveloper.github.io/portfolio/)  
 
 Thanks for taking the time to visit my profile! 🚀
