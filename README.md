@@ -15,9 +15,9 @@ I'm a **fullstack developer** passionate about **technology**, **sports**, **web
 
 ## 💻 Technologies and Tools I Use:
 
-- **Frontend**: Vue.js, React, Next.JS, HTML, CSS, JavaScript, TypeScript, and WordPress  
-- **Backend**: TypeScript, Symfony, NestJS, Django, and Java Spring Boot  
-- **Tools**: Git, Notion, Visual Studio Code, Trello  
+- **Frontend**: Vue.js, React, Next.JS, HTML, CSS, SCSS, Tailwind JavaScript, TypeScript, and WordPress  
+- **Backend**: TypeScript, Symfony, Laravel, NestJS, Django, Express, Fast API and Java Spring Boot  
+- **Tools**: Git, Notion, Trello, MS Project, Toggl
 
 ---
 
