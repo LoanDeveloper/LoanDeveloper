@@ -31,4 +31,4 @@ I'm a **fullstack developer** passionate about **technology**, **sports**, **web
 
 Thanks for taking the time to visit my profile! 🚀
 
-Coding with 💖 since 2018
+<i>Coding with 💖 since 2018</i>
