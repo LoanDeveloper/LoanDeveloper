@@ -17,7 +17,7 @@ I'm a **fullstack developer** passionate about **technology**, **sports**, **web
 
 - **Frontend**: Vue.js, React, Next.JS, HTML, CSS, SCSS, Tailwind, JavaScript, TypeScript, and WordPress  
 - **Backend**: TypeScript, Symfony, Laravel, NestJS, Django, Express, Fast API and Java Spring Boot  
-- **DevTools**: Git, Docker, Postman
+- **DevTools**: Git, Bash, Docker, Postman
 - **Project Management**: Notion, Trello, MS Project, Toggl
 - **OS**: Fedora (Linux) | Windows 11
 
