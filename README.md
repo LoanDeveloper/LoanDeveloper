@@ -30,3 +30,5 @@ I'm a **fullstack developer** passionate about **technology**, **sports**, **web
 - **Portfolio**: [loandeveloper.github.io/portfolio/](https://loandeveloper.github.io/portfolio/)  
 
 Thanks for taking the time to visit my profile! 🚀
+
+Coding with 💖 since 2018
