@@ -19,7 +19,7 @@ I'm a **fullstack developer** passionate about **technology**, **sports**, **web
 - **Backend**: TypeScript, Symfony, Laravel, NestJS, Django, Express, Fast API and Java Spring Boot  
 - **DevTools**: Git, Docker, Postman
 - **Project Management**: Notion, Trello, MS Project, Toggl
-- **OS**: 🐧 Fedora | 🪟 Windows 11
+- **OS**: Fedora (Linux) | Windows 11
 
 ---
 
