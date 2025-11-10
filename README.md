@@ -1,6 +1,6 @@
 <h1 align="center"># 👋 Hi, I'm Loan!</h1>
 
-I'm a **fullstack developer** passionate about **technology**, **sports**, **web development**, and **music**.  
+<p align="center">I'm a **fullstack developer** passionate about **technology**, **sports**, **web development**, and **music**.</p>
 
 ---
 
