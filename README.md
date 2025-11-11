@@ -8,7 +8,7 @@
 
 - 🎓 Currently in a work-study program to become a well-rounded and versatile web developer.  
 - 🛠️ Passionate about **programming** and **new technologies**.  
-- 🎵 **Beatmaker** in my spare time.  
+- 🎵 **Beatmaker** / **Producer** in my spare time.  
 - 🏋️ Sports enthusiast: **badminton**, **bodybuilding**, and **hiking**.  
 
 ---
