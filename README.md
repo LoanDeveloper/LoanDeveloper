@@ -27,8 +27,8 @@
 
 - **Email**: [loan.thomy@gmail.com](mailto:loan.thomy@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/loan-tmy](https://www.linkedin.com/in/loan-tmy/)  
-- **Portfolio**: [loandeveloper.github.io/portfolio/](https://loandeveloper.github.io/portfolio/)  
+- **Portfolio**: [loandeveloper.github.io/portfolio/](https://loandeveloper.github.io/portfolio/)
 
 Thanks for taking the time to visit my profile! 🚀
 
-<i>Coding with 💖 since 2018</i>
+<i>Coding with 💖 since 2018 :)</i>
