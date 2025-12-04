@@ -20,7 +20,7 @@
 - **Languages**: Typscript, Python, Java, PHP, C, SQL
 - **DevTools**: Git, Bash, Docker, Postman
 - **Project Management**: Notion, Trello, MS Project, Toggl
-- **OS**: Fedora (Linux) | Windows 11
+- **OS**: Fedora (Linux) | Windows 11 | IOS
 
 ---
 
