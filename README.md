@@ -17,7 +17,7 @@
 
 - **Frontend**: Next.JS, Vue.js, React, Tailwind, SCSS, Framer and WordPress  
 - **Backend**: NestJS, Symfony, Laravel, Express, Django, Fast API and Java Spring Boot
-- **Languages**: Typscript, Python, Java, PHP, C, SQL
+- **Languages**: Typscript, Python, Java, PHP, SQL
 - **DevTools**: Git, Bash, Docker, Postman
 - **Project Management**: Notion, Trello, MS Project, Toggl
 - **OS**: Fedora (Linux) | Windows 11 | IOS
