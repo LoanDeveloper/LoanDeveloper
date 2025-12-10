@@ -24,6 +24,15 @@
 
 ---
 
+## 📊 Data / Machine Learning / IA
+
+- **Langages & data tools** : Python, SQL, Pandas, NumPy  
+- **Machine Learning & Deep Learning** : scikit-learn, PyTorch, TensorFlow)
+- **Big Data / Data engineering** : Apache Spark, traitement de gros volumes  
+- **MLOps / déploiement** : Docker, API Python (FastAPI / Flask), pipelines & déploiement
+
+---
+
 ## 📫 Contact Me:
 
 - **Email**: [loan.thomy@gmail.com](mailto:loan.thomy@gmail.com)  
