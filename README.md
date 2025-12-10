@@ -9,28 +9,28 @@
 - 🎓 Currently in a work-study program to become a well-rounded and versatile web developer.  
 - 🛠️ Passionate about **programming** and **new technologies**.  
 - 🎵 **Beatmaker** / **Producer** in my spare time.  
-- 🏋️ Sports enthusiast: **badminton**, **bodybuilding**, and **hiking**.  
+- 🏋️ Sports enthusiast: **badminton** · **bodybuilding** · **hiking**  
 
 ---
 
 ## 💻 Technologies and Tools I Use:
 
-- **Frontend**: Next.JS, Vue.js, React, Tailwind, SCSS, Framer and WordPress  
-- **Backend**: NestJS, Symfony, Laravel, Express, Django, Fast API and Java Spring Boot
-- **Languages**: Typscript, Python, Java, PHP, SQL
-- **DevTools**: Git, Bash, Docker, Postman
-- **Project Management**: Jira, Notion, Trello, MS Project, Toggl
-- **OS**: Fedora (Linux) | Windows 11 | IOS
+- **Frontend**: Next.JS · Vue.js · React · Tailwind · SCSS · Framer · WordPress  
+- **Backend**: NestJS · Symfony · Laravel · Express · Django · FastAPI · Java Spring Boot  
+- **Languages**: Typescript · Python · Java · PHP · SQL  
+- **DevTools**: Git · Bash · Docker · Postman  
+- **Project Management**: Jira · Notion · Trello · MS Project · Toggl  
+- **OS**: Fedora (Linux) · Windows 11 · iOS  
 
 ---
 
 ## 📊 Data / Machine Learning / IA
 
 - **Langages & Data Tools** : Python · SQL · Pandas · NumPy · Jupyter Notebook  
-- **Notebooks & Analyse** : Analyses exploratoires, nettoyage de données, visualisations, prototypage ML
+- **Notebooks & Analyse** : Analyses exploratoires · nettoyage de données · visualisations · prototypage ML  
 - **Machine Learning & Deep Learning** : scikit-learn · PyTorch · TensorFlow  
 - **Big Data / Data Engineering** : Apache Spark · traitement de gros volumes  
-- **MLOps / Déploiement** : Docker · API Python (FastAPI / Flask) · pipelines & déploiement
+- **MLOps / Déploiement** : Docker · API Python (FastAPI · Flask) · pipelines & déploiement  
 
 ---
 
