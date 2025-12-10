@@ -26,10 +26,11 @@
 
 ## 📊 Data / Machine Learning / IA
 
-- **Langages & data tools** : Python, SQL, Pandas, NumPy  
-- **Machine Learning & Deep Learning** : scikit-learn, PyTorch, TensorFlow)
-- **Big Data / Data engineering** : Apache Spark, traitement de gros volumes  
-- **MLOps / déploiement** : Docker, API Python (FastAPI / Flask), pipelines & déploiement
+- **Langages & Data Tools** : Python · SQL · Pandas · NumPy · Jupyter Notebook  
+- **Notebooks & Analyse** : Analyses exploratoires, nettoyage de données, visualisations, prototypage ML
+- **Machine Learning & Deep Learning** : scikit-learn · PyTorch · TensorFlow  
+- **Big Data / Data Engineering** : Apache Spark · traitement de gros volumes  
+- **MLOps / Déploiement** : Docker · API Python (FastAPI / Flask) · pipelines & déploiement
 
 ---
 
