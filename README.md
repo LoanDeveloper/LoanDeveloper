@@ -24,6 +24,15 @@
 
 ---
 
+## ☁️ Cloud / Infrastructure
+
+- **Cloud Providers**: Azure · Vercel · Infomaniak Cloud
+- **Hosting & Servers**: VPS (OVH, Infomaniak, Hetzner) · Nginx · Apache
+- **CI/CD & Deployment**: GitHub Actions · Docker · containerized workloads
+- **Monitoring / Ops**: basic observability · log management · resource scaling
+
+---
+
 ## 📊 Data / Machine Learning / IA
 
 - **Langages & Data Tools** : Python · SQL · Pandas · NumPy · Jupyter Notebook  
