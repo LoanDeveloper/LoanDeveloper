@@ -27,7 +27,7 @@
 ## ☁️ Cloud / Infrastructure
 
 - **Cloud Providers**: Azure · Vercel · Infomaniak Cloud
-- **Hosting & Servers**: VPS (OVH, Infomaniak, Hetzner) · Nginx · Apache
+- **Hosting & Servers**: VPS (OVH, Infomaniak) · Nginx · Apache
 - **CI/CD & Deployment**: GitHub Actions · Docker · containerized workloads
 - **Monitoring / Ops**: basic observability · log management · resource scaling
 
