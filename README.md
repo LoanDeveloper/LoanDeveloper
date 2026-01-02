@@ -45,7 +45,7 @@
 
 ## 📫 Contact Me:
 
-- **Email**: [loan.thomy@gmail.com](mailto:loan.thomy@gmail.com)  
+- **Email**: [loan.dev@icloud.com](mailto:loan.dev@icloud.com)  
 - **LinkedIn**: [linkedin.com/in/loan-tmy](https://www.linkedin.com/in/loan-tmy/)  
 - **Portfolio**: [loandeveloper.github.io/portfolio/](https://loandeveloper.github.io/portfolio/)
 
