@@ -16,7 +16,7 @@
 ## 💻 Technologies and Tools I Use:
 
 - **Frontend**: Next.JS · Vue.js · React · Tailwind · SCSS · Framer · WordPress  
-- **Backend**: NestJS · Symfony · Laravel · Express · Django · FastAPI · Java Spring Boot  
+- **Backend**: NestJS · Symfony · Laravel · Express · Django · FastAPI · Flask · Java Spring Boot  
 - **Languages**: Typescript · Python · Java · PHP · SQL  
 - **DevTools**: Git · Bash · Docker · Postman  
 - **Project Management**: Jira · Notion · Trello · MS Project · Toggl  
