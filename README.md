@@ -1,6 +1,6 @@
 <h1 align="center"># 👋 Hi, I'm Loan!</h1>
 
-<p align="center">I'm a <strong>fullstack developer</strong> passionate about <strong>technology</strong>, <strong>sports</strong>, <strong>web development</strong>, <strong>music</strong>, <strong>philosophy</strong>, <strong>social sciences</strong> and <strong>neuroscience</strong>.</p>
+<p align="center">I'm a <strong>fullstack / creative developer</strong> passionate about <strong>technology</strong>, <strong>sports</strong>, <strong>web development</strong>, <strong>music</strong>, <strong>philosophy</strong>, <strong>social sciences</strong> and <strong>neuroscience</strong>.</p>
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## 💻 Technologies and Tools I Use:
 
-- **Frontend**: Next.JS · Vue.js · React · Tailwind · SCSS · Framer · WordPress  
+- **Frontend**: Next.JS · Vue.js · React · Tailwind · SCSS · Framer · Three.js · WebGL · WordPress  
 - **Backend**: NestJS · Symfony · Laravel · Express · Django · FastAPI · Flask · Java Spring Boot  
 - **Languages**: Typescript · Python · Java · PHP · SQL  
 - **DevTools**: Git · Bash · Docker · Postman  
