@@ -1,6 +1,6 @@
 <h1 align="center"># 👋 Hi, I'm Loan!</h1>
 
-<p align="center">I'm a <strong>fullstack / creative developer</strong> passionate about <strong>technology</strong>, <strong>sports</strong>, <strong>web development</strong>, <strong>music</strong>, <strong>philosophy</strong>, <strong>social sciences</strong> and <strong>neuroscience</strong>.</p>
+<p align="center">I'm a <strong>fullstack & creative developer</strong> passionate about <strong>technology</strong>, <strong>sports</strong>, <strong>web development</strong>, <strong>music</strong>, <strong>philosophy</strong>, <strong>social sciences</strong> and <strong>neuroscience</strong>.</p>
 
 ---
 
