@@ -35,7 +35,7 @@
 
 ## 📊 Data / Machine Learning / IA
 
-- **Langages & Data Tools** : Python · SQL · Pandas · NumPy · Jupyter Notebook  
+- **Langages & Data Tools** : Python · R · SQL · Pandas · NumPy · Jupyter Notebook  
 - **Notebooks & Analyse** : Analyses exploratoires · nettoyage de données · visualisations · prototypage ML  
 - **Machine Learning & Deep Learning** : scikit-learn · PyTorch · TensorFlow  
 - **Big Data / Data Engineering** : Apache Spark · traitement de gros volumes  
